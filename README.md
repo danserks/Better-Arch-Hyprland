@@ -16,7 +16,7 @@
    <img align="center" width="49%" src="https://raw.githubusercontent.com/JaKooLit/screenshots/main/Hyprland-Dots-Showcase/waybar-layout.png" /> <img align="center" width="49%" src="https://raw.githubusercontent.com/JaKooLit/screenshots/main/Hyprland-Dots-Showcase/waybar-style.png"" /> 
 </p>
 # INSTALL
-```
+``` SH
 git clone --depth=1 https://github.com/danserks/Better-Arch-Hyprland.git ~/Better-Arch-Hyprland
 cd ~/Better-Arch-Hyprland
 chmod +x install.sh
